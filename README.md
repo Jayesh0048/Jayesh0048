@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/jay@07esh" target="blank"><img src="https://img.shields.io/twitter/follow/jay@07esh?logo=twitter&style=for-the-badge" alt="jay@07esh" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Angular JS**
+- 🌱 I’m currently learning **MultiAgent AI AI Secuirty, PYTorch, OPenCV**
 
-- 💬 Ask me about **MERN, Machine Learning**
+- 💬 Ask me about **FASTAPI, Machine Learning**
 
 - 📫 How to reach me **jayeshjnaidu7@gmail.com**
 
